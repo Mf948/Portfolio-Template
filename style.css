@@ -1,0 +1,19 @@
+:root{
+    --fontbase: 'Poppins', sans-serif;
+    --headline1: bold 95px/153.71px var(--fontbase) ;
+    --headline2:  ;
+    --headline3:  ;
+    --headline4: ;
+    --headline5: ;
+    --gradient: radial-gradient(41.48% 11.48% at 2.38% 8.52%, #747DE9 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(135deg, #72EDF2 0%, #5151E5 100%)
+}
+
+body{
+    background: var(--gradient);
+    min-block-size: 100vh;
+    font: var(--headline1);
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
