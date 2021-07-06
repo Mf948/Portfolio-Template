@@ -2,7 +2,7 @@
 
 <img width="578" alt="Screen Shot 2021-07-05 at 10 33 58 PM" src="https://user-images.githubusercontent.com/23587714/124533863-1c78f000-dde1-11eb-963f-5e05a7d9017a.png">
 
-The purpose of this Portfolio was to build a mobile responsive professional Portfolio. Made with the use of flex, sematics and typography using Figma the most helpfull tool used by developers.
+The purpose of this Portfolio was to build a mobile responsive professional Portfolio. Made with the use of flex, sematics and typography using Figma the most helpfull tool used by  UX Designers & Developers.
 
 Jaume Portfolio Template as a part of a coding workshop at https://leonidasesteban.com/
 
