@@ -1,0 +1,47 @@
+.card-coment{
+    font-family: 'Oxygen', sans-serif;
+    letter-spacing: 0.005em;
+    font-size: 15px;
+    font-weight: 26px;
+    padding: 24px;
+    border-radius: 24px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 3.98px solid rgba(255, 255, 255, 0.75);
+    display:grid;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.card-coment p{
+    border-top: 24px;
+    font: var(--caption);
+}
+
+.card-coment img{
+    width: 64px;
+    margin: auto;
+}
+
+
+@media screen and (min-width: 768px){
+    .card-coment{
+        font-size: 23px;
+        line-height: 55px;
+        align-items: center;
+        text-align: center;
+        padding: 80px;
+    }
+
+    .card-coment h1{
+        margin: 24px 0px;
+    }
+
+    .card-coment p{
+        font: var(--headline5);
+        opacity: 0.5;
+        margin: 0px 0px;
+    }
+
+    .card-coment img{
+        width: 80px;
+    }
